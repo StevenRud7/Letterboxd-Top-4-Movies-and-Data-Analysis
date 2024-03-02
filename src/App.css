@@ -1,0 +1,180 @@
+/* app.css */
+
+body {
+  background-color:#14171c;
+}
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  color: #eaeaea;
+}
+
+.labelContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.labelContainer label {
+  margin-right: 10px;
+  font-size: 1.2em;
+  color: #333;
+}
+
+.searchBox {
+  padding: 10px;
+  font-size: 1em;
+  border: 2px solid #333;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+
+.getTopMoviesBtn {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #00B021;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.getTopMoviesBtn:hover {
+  background-color: #00971c;
+}
+
+.topMovies {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.movieCard {
+  position: relative;
+  margin: 20px;
+  width: 250px;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.movieCard:hover {
+  transform: scale(1.05);
+}
+
+.movieCard img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px 10px 0 0;
+}
+
+.movieDetails {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 10px;
+  box-sizing: border-box;
+  color: white;
+  border-radius: 0 0 10px 10px;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.movieCard:hover .movieDetails {
+  opacity: 1;
+}
+
+.movieDetails h3 {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.movieDetails p {
+  margin: 5px 0;
+  font-size: 0.9em;
+}
+
+.loadingContainer {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 60px;
+  height: 60px;
+  display: none;
+}
+
+.loadingCircle {
+  border: 8px solid #ffffff;
+  border-top: 8px solid #00B021;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  animation: spin 1s linear infinite;
+  margin: auto;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.userProfileContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.userProfileImage {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.searchedUsername {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #eaeaea;
+  cursor: pointer;
+}
+
+.errorContainer {
+  margin-top: 20px;
+}
+
+.errorText {
+  color: #ff0000;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+/* src/App.css */
+
+/* ... (existing styles) */
+
+.dataAnalysisBtn {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #F27405;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.dataAnalysisBtn:hover {
+  background-color: #bb5700;
+}

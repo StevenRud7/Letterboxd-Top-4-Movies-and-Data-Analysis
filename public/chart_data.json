@@ -1,0 +1,706 @@
+[
+    {
+        "Year": 1960,
+        "Average Rating": 3.690625,
+        "Total Rated Movies": 16,
+        "Top Movies": [
+            "Le Trou",
+            "Psycho",
+            "Rocco and His Brothers",
+            "La Dolce Vita"
+        ]
+    },
+    {
+        "Year": 1961,
+        "Average Rating": 3.732307692,
+        "Total Rated Movies": 13,
+        "Top Movies": [
+            "Yojimbo",
+            "Judgment at Nuremberg",
+            "Victim",
+            "Accattone"
+        ]
+    },
+    {
+        "Year": 1962,
+        "Average Rating": 3.872941176,
+        "Total Rated Movies": 17,
+        "Top Movies": [
+            "Harakiri",
+            "Lawrence of Arabia",
+            "The Man Who Shot Liberty Valance",
+            "An Autumn Afternoon"
+        ]
+    },
+    {
+        "Year": 1963,
+        "Average Rating": 3.5695,
+        "Total Rated Movies": 20,
+        "Top Movies": [
+            "High and Low",
+            "The Great Escape",
+            "Hud",
+            "Charade"
+        ]
+    },
+    {
+        "Year": 1964,
+        "Average Rating": 3.749,
+        "Total Rated Movies": 20,
+        "Top Movies": [
+            "Woman in the Dunes",
+            "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "Kwaidan",
+            "Onibaba"
+        ]
+    },
+    {
+        "Year": 1965,
+        "Average Rating": 3.705454545,
+        "Total Rated Movies": 11,
+        "Top Movies": [
+            "Red Beard",
+            "A Charlie Brown Christmas",
+            "The Sound of Music",
+            "Doctor Zhivago"
+        ]
+    },
+    {
+        "Year": 1966,
+        "Average Rating": 3.688461538,
+        "Total Rated Movies": 26,
+        "Top Movies": [
+            "The Good, the Bad and the Ugly",
+            "Andrei Rublev",
+            "Persona",
+            "War and Peace"
+        ]
+    },
+    {
+        "Year": 1967,
+        "Average Rating": 3.638,
+        "Total Rated Movies": 20,
+        "Top Movies": [
+            "Cool Hand Luke",
+            "The Graduate",
+            "In Cold Blood",
+            "In the Heat of the Night"
+        ]
+    },
+    {
+        "Year": 1968,
+        "Average Rating": 3.5324,
+        "Total Rated Movies": 25,
+        "Top Movies": [
+            "Once Upon a Time in the West",
+            "Rosemary's Baby",
+            "Planet of the Apes",
+            "The Lion in Winter"
+        ]
+    },
+    {
+        "Year": 1969,
+        "Average Rating": 3.491666667,
+        "Total Rated Movies": 18,
+        "Top Movies": [
+            "Army of Shadows",
+            "Butch Cassidy and the Sundance Kid",
+            "Midnight Cowboy",
+            "The Damned"
+        ]
+    },
+    {
+        "Year": 1970,
+        "Average Rating": 3.374545455,
+        "Total Rated Movies": 22,
+        "Top Movies": [
+            "Le Cercle Rouge",
+            "Investigation of a Citizen Above Suspicion",
+            "Patton",
+            "El Topo"
+        ]
+    },
+    {
+        "Year": 1971,
+        "Average Rating": 3.635,
+        "Total Rated Movies": 22,
+        "Top Movies": [
+            "The Last Picture Show",
+            "A Clockwork Orange",
+            "Harold and Maude",
+            "Fiddler on the Roof"
+        ]
+    },
+    {
+        "Year": 1972,
+        "Average Rating": 3.591111111,
+        "Total Rated Movies": 27,
+        "Top Movies": [
+            "The Godfather",
+            "Solaris",
+            "Cries and Whispers",
+            "Aguirre, the Wrath of God"
+        ]
+    },
+    {
+        "Year": 1973,
+        "Average Rating": 3.6759375,
+        "Total Rated Movies": 32,
+        "Top Movies": [
+            "The Holy Mountain",
+            "The Mother and the Whore",
+            "Amarcord",
+            "Badlands"
+        ]
+    },
+    {
+        "Year": 1974,
+        "Average Rating": 3.551428571,
+        "Total Rated Movies": 21,
+        "Top Movies": [
+            "The Godfather Part II",
+            "The Conversation",
+            "Phantom of the Paradise",
+            "The Texas Chain Saw Massacre"
+        ]
+    },
+    {
+        "Year": 1975,
+        "Average Rating": 3.508518519,
+        "Total Rated Movies": 27,
+        "Top Movies": [
+            "One Flew Over the Cuckoo's Nest",
+            "Mirror",
+            "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+            "Monty Python and the Holy Grail"
+        ]
+    },
+    {
+        "Year": 1976,
+        "Average Rating": 3.482916667,
+        "Total Rated Movies": 24,
+        "Top Movies": [
+            "The Message",
+            "All the President's Men",
+            "Carrie",
+            "The Outlaw Josey Wales"
+        ]
+    },
+    {
+        "Year": 1977,
+        "Average Rating": 3.305555556,
+        "Total Rated Movies": 27,
+        "Top Movies": [
+            "Annie Hall",
+            "That Obscure Object of Desire",
+            "Suspiria",
+            "Eraserhead"
+        ]
+    },
+    {
+        "Year": 1978,
+        "Average Rating": 3.271724138,
+        "Total Rated Movies": 29,
+        "Top Movies": [
+            "The Deer Hunter",
+            "The 36th Chamber of Shaolin",
+            "Dawn of the Dead",
+            "Invasion of the Body Snatchers"
+        ]
+    },
+    {
+        "Year": 1979,
+        "Average Rating": 3.551935484,
+        "Total Rated Movies": 31,
+        "Top Movies": [
+            "Apocalypse Now",
+            "Stalker",
+            "All That Jazz",
+            "Alien"
+        ]
+    },
+    {
+        "Year": 1980,
+        "Average Rating": 3.342432432,
+        "Total Rated Movies": 37,
+        "Top Movies": [
+            "The Empire Strikes Back",
+            "Raging Bull",
+            "The Elephant Man",
+            "Kagemusha"
+        ]
+    },
+    {
+        "Year": 1981,
+        "Average Rating": 3.392926829,
+        "Total Rated Movies": 41,
+        "Top Movies": [
+            "Das Boot",
+            "Raiders of the Lost Ark",
+            "Blow Out",
+            "Possession"
+        ]
+    },
+    {
+        "Year": 1982,
+        "Average Rating": 3.402727273,
+        "Total Rated Movies": 33,
+        "Top Movies": [
+            "The Thing",
+            "The King of Comedy",
+            "Fitzcarraldo",
+            "Blade Runner"
+        ]
+    },
+    {
+        "Year": 1983,
+        "Average Rating": 3.332352941,
+        "Total Rated Movies": 34,
+        "Top Movies": [
+            "The Ballad of Narayama",
+            "Merry Christmas, Mr. Lawrence",
+            "Videodrome",
+            "Monty Python's The Meaning of Life"
+        ]
+    },
+    {
+        "Year": 1984,
+        "Average Rating": 3.284222222,
+        "Total Rated Movies": 45,
+        "Top Movies": [
+            "Paris, Texas",
+            "Once Upon a Time in America",
+            "This Is Spinal Tap",
+            "Urusei Yatsura: Beautiful Dreamer"
+        ]
+    },
+    {
+        "Year": 1985,
+        "Average Rating": 3.319275362,
+        "Total Rated Movies": 69,
+        "Top Movies": [
+            "Come and See",
+            "Ran",
+            "Mishima: A Life in Four Chapters",
+            "Tampopo"
+        ]
+    },
+    {
+        "Year": 1986,
+        "Average Rating": 3.30671875,
+        "Total Rated Movies": 64,
+        "Top Movies": [
+            "Aliens",
+            "Stand by Me",
+            "Blue Velvet",
+            "Castle in the Sky"
+        ]
+    },
+    {
+        "Year": 1987,
+        "Average Rating": 3.341071429,
+        "Total Rated Movies": 56,
+        "Top Movies": [
+            "Wings of Desire",
+            "The Princess Bride",
+            "Evil Dead II",
+            "Babette's Feast"
+        ]
+    },
+    {
+        "Year": 1988,
+        "Average Rating": 3.371323529,
+        "Total Rated Movies": 68,
+        "Top Movies": [
+            "Cinema Paradiso",
+            "Akira",
+            "My Neighbor Totoro",
+            "Die Hard"
+        ]
+    },
+    {
+        "Year": 1989,
+        "Average Rating": 3.36047619,
+        "Total Rated Movies": 63,
+        "Top Movies": [
+            "Do the Right Thing",
+            "Dead Poets Society",
+            "The Cook, the Thief, His Wife & Her Lover",
+            "Kiki's Delivery Service"
+        ]
+    },
+    {
+        "Year": 1990,
+        "Average Rating": 3.278196721,
+        "Total Rated Movies": 61,
+        "Top Movies": [
+            "GoodFellas",
+            "Dreams",
+            "Miller's Crossing",
+            "Bullet in the Head"
+        ]
+    },
+    {
+        "Year": 1991,
+        "Average Rating": 3.269428571,
+        "Total Rated Movies": 70,
+        "Top Movies": [
+            "Terminator 2: Judgment Day",
+            "Raise the Red Lantern",
+            "The Lovers on the Bridge",
+            "La Belle Noiseuse"
+        ]
+    },
+    {
+        "Year": 1992,
+        "Average Rating": 3.299714286,
+        "Total Rated Movies": 70,
+        "Top Movies": [
+            "Farewell My Concubine",
+            "Unforgiven",
+            "Twin Peaks: Fire Walk with Me",
+            "Porco Rosso"
+        ]
+    },
+    {
+        "Year": 1993,
+        "Average Rating": 3.304285714,
+        "Total Rated Movies": 84,
+        "Top Movies": [
+            "In the Name of the Father",
+            "Short Cuts",
+            "Naked",
+            "Sonatine"
+        ]
+    },
+    {
+        "Year": 1994,
+        "Average Rating": 3.20875,
+        "Total Rated Movies": 80,
+        "Top Movies": [
+            "Satantango",
+            "Chungking Express",
+            "Pulp Fiction",
+            "The Lion King"
+        ]
+    },
+    {
+        "Year": 1995,
+        "Average Rating": 3.2583,
+        "Total Rated Movies": 100,
+        "Top Movies": [
+            "La Haine",
+            "Before Sunrise",
+            "Heat",
+            "Fallen Angels"
+        ]
+    },
+    {
+        "Year": 1996,
+        "Average Rating": 3.229113924,
+        "Total Rated Movies": 79,
+        "Top Movies": [
+            "Fargo",
+            "Trainspotting",
+            "Breaking the Waves",
+            "Bound"
+        ]
+    },
+    {
+        "Year": 1997,
+        "Average Rating": 3.204526316,
+        "Total Rated Movies": 95,
+        "Top Movies": [
+            "Perfect Blue",
+            "Princess Mononoke",
+            "Life Is Beautiful",
+            "Cure"
+        ]
+    },
+    {
+        "Year": 1998,
+        "Average Rating": 3.148712871,
+        "Total Rated Movies": 101,
+        "Top Movies": [
+            "Saving Private Ryan",
+            "The Truman Show",
+            "The Big Lebowski",
+            "The Thin Red Line"
+        ]
+    },
+    {
+        "Year": 1999,
+        "Average Rating": 3.31,
+        "Total Rated Movies": 91,
+        "Top Movies": [
+            "Fight Club",
+            "Magnolia",
+            "The Green Mile",
+            "The Matrix"
+        ]
+    },
+    {
+        "Year": 2000,
+        "Average Rating": 3.148272727,
+        "Total Rated Movies": 110,
+        "Top Movies": [
+            "Yi Yi",
+            "In the Mood for Love",
+            "Memento",
+            "Dancer in the Dark"
+        ]
+    },
+    {
+        "Year": 2001,
+        "Average Rating": 3.224259259,
+        "Total Rated Movies": 108,
+        "Top Movies": [
+            "Mulholland Drive",
+            "Millennium Actress",
+            "All About Lily Chou-Chou",
+            "The Royal Tenenbaums"
+        ]
+    },
+    {
+        "Year": 2002,
+        "Average Rating": 3.113100775,
+        "Total Rated Movies": 129,
+        "Top Movies": [
+            "City of God",
+            "The Lord of the Rings: The Two Towers",
+            "The Pianist",
+            "Lilya 4-ever"
+        ]
+    },
+    {
+        "Year": 2003,
+        "Average Rating": 3.119586777,
+        "Total Rated Movies": 121,
+        "Top Movies": [
+            "The Lord of the Rings: The Return of the King",
+            "Memories of Murder",
+            "Oldboy",
+            "Tokyo Godfathers"
+        ]
+    },
+    {
+        "Year": 2004,
+        "Average Rating": 3.199342105,
+        "Total Rated Movies": 152,
+        "Top Movies": [
+            "Before Sunset",
+            "Nobody Knows",
+            "Howl's Moving Castle",
+            "Eternal Sunshine of the Spotless Mind"
+        ]
+    },
+    {
+        "Year": 2005,
+        "Average Rating": 2.997769784,
+        "Total Rated Movies": 139,
+        "Top Movies": [
+            "Grizzly Man",
+            "Pride & Prejudice",
+            "Lady Vengeance",
+            "One Piece: Baron Omatsuri and the Secret Island"
+        ]
+    },
+    {
+        "Year": 2006,
+        "Average Rating": 3.053492063,
+        "Total Rated Movies": 189,
+        "Top Movies": [
+            "Death Note",
+            "Kill Bill: The Whole Bloody Affair",
+            "The Departed",
+            "The Lives of Others"
+        ]
+    },
+    {
+        "Year": 2007,
+        "Average Rating": 3.113121387,
+        "Total Rated Movies": 173,
+        "Top Movies": [
+            "There Will Be Blood",
+            "No Country for Old Men",
+            "Ratatouille",
+            "Persepolis"
+        ]
+    },
+    {
+        "Year": 2008,
+        "Average Rating": 3.003892216,
+        "Total Rated Movies": 167,
+        "Top Movies": [
+            "The Dark Knight",
+            "Synecdoche, New York",
+            "The Wrestler",
+            "Let the Right One In"
+        ]
+    },
+    {
+        "Year": 2009,
+        "Average Rating": 2.97513089,
+        "Total Rated Movies": 191,
+        "Top Movies": [
+            "Inglourious Basterds",
+            "Fantastic Mr. Fox",
+            "Mary and Max",
+            "The White Ribbon"
+        ]
+    },
+    {
+        "Year": 2010,
+        "Average Rating": 3.014254144,
+        "Total Rated Movies": 181,
+        "Top Movies": [
+            "Incendies",
+            "The Disappearance of Haruhi Suzumiya",
+            "Inception",
+            "Poetry"
+        ]
+    },
+    {
+        "Year": 2011,
+        "Average Rating": 2.97,
+        "Total Rated Movies": 203,
+        "Top Movies": [
+            "A Separation",
+            "The Intouchables",
+            "Silenced",
+            "Warrior"
+        ]
+    },
+    {
+        "Year": 2012,
+        "Average Rating": 2.985699482,
+        "Total Rated Movies": 193,
+        "Top Movies": [
+            "The Act of Killing",
+            "The Hunt",
+            "Django Unchained",
+            "Wolf Children"
+        ]
+    },
+    {
+        "Year": 2013,
+        "Average Rating": 3.030514019,
+        "Total Rated Movies": 214,
+        "Top Movies": [
+            "Prisoners",
+            "The Tale of The Princess Kaguya",
+            "Short Term 12",
+            "12 Years a Slave"
+        ]
+    },
+    {
+        "Year": 2014,
+        "Average Rating": 2.888806584,
+        "Total Rated Movies": 243,
+        "Top Movies": [
+            "Whiplash",
+            "Mommy",
+            "Song of the Sea",
+            "What We Do in the Shadows"
+        ]
+    },
+    {
+        "Year": 2015,
+        "Average Rating": 2.986778243,
+        "Total Rated Movies": 239,
+        "Top Movies": [
+            "Mad Max: Fury Road",
+            "Spotlight",
+            "Our Little Sister",
+            "Carol"
+        ]
+    },
+    {
+        "Year": 2016,
+        "Average Rating": 2.919067164,
+        "Total Rated Movies": 268,
+        "Top Movies": [
+            "The Handmaiden",
+            "Your Name.",
+            "Your Name",
+            "Moonlight"
+        ]
+    },
+    {
+        "Year": 2017,
+        "Average Rating": 2.959261745,
+        "Total Rated Movies": 298,
+        "Top Movies": [
+            "Kizumonogatari Part 3: Reiketsu",
+            "Get Out",
+            "Night Is Short, Walk On Girl",
+            "A Taxi Driver"
+        ]
+    },
+    {
+        "Year": 2018,
+        "Average Rating": 2.924349206,
+        "Total Rated Movies": 315,
+        "Top Movies": [
+            "Taylor Swift: Reputation Stadium Tour",
+            "Spider-Man: Into the Spider-Verse",
+            "Shoplifters",
+            "Capernaum"
+        ]
+    },
+    {
+        "Year": 2019,
+        "Average Rating": 2.917648725,
+        "Total Rated Movies": 353,
+        "Top Movies": [
+            "Portrait of a Lady on Fire",
+            "Sound of Metal",
+            "Bring the Soul: The Movie",
+            "Little Women"
+        ]
+    },
+    {
+        "Year": 2020,
+        "Average Rating": 2.86959854,
+        "Total Rated Movies": 274,
+        "Top Movies": [
+            "Folklore: The Long Pond Studio Sessions",
+            "The Father",
+            "Wolfwalkers",
+            "Quo vadis, Aida?"
+        ]
+    },
+    {
+        "Year": 2021,
+        "Average Rating": 2.881526316,
+        "Total Rated Movies": 380,
+        "Top Movies": [
+            "Evangelion: 3.0+1.0 Thrice Upon a Time",
+            "Drive My Car",
+            "Bo Burnham: Inside",
+            "Summer of Soul (...Or, When the Revolution Could Not Be Televised)"
+        ]
+    },
+    {
+        "Year": 2022,
+        "Average Rating": 2.893599182,
+        "Total Rated Movies": 489,
+        "Top Movies": [
+            "Everything Everywhere All at Once",
+            "RRR",
+            "The First Slam Dunk",
+            "Puss in Boots: The Last Wish"
+        ]
+    },
+    {
+        "Year": 2023,
+        "Average Rating": 2.956280374,
+        "Total Rated Movies": 535,
+        "Top Movies": [
+            "Spider-Man: Across the Spider-Verse",
+            "BTS: Yet to Come in Cinemas",
+            "TAYLOR SWIFT | THE ERAS TOUR",
+            "Monster"
+        ]
+    }
+]

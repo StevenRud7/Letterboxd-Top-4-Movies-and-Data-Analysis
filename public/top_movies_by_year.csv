@@ -1,0 +1,65 @@
+Year,Movies,Average,Total
+1960,"['Le Trou', 'Psycho', 'Rocco and His Brothers', 'La Dolce Vita']",3.690625,16
+1961,"['Yojimbo', 'Judgment at Nuremberg', 'Victim', 'Accattone']",3.732307692,13
+1962,"['Harakiri', 'Lawrence of Arabia', 'The Man Who Shot Liberty Valance', 'An Autumn Afternoon']",3.872941176,17
+1963,"['High and Low', 'The Great Escape', 'Hud', 'Charade']",3.5695,20
+1964,"['Woman in the Dunes', 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb', 'Kwaidan', 'Onibaba']",3.749,20
+1965,"['Red Beard', 'A Charlie Brown Christmas', 'The Sound of Music', 'Doctor Zhivago']",3.705454545,11
+1966,"['The Good, the Bad and the Ugly', 'Andrei Rublev', 'Persona', 'War and Peace']",3.688461538,26
+1967,"['Cool Hand Luke', 'The Graduate', 'In Cold Blood', 'In the Heat of the Night']",3.638,20
+1968,"['Once Upon a Time in the West', ""Rosemary's Baby"", 'Planet of the Apes', 'The Lion in Winter']",3.5324,25
+1969,"['Army of Shadows', 'Butch Cassidy and the Sundance Kid', 'Midnight Cowboy', 'The Damned']",3.491666667,18
+1970,"['Le Cercle Rouge', 'Investigation of a Citizen Above Suspicion', 'Patton', 'El Topo']",3.374545455,22
+1971,"['The Last Picture Show', 'A Clockwork Orange', 'Harold and Maude', 'Fiddler on the Roof']",3.635,22
+1972,"['The Godfather', 'Solaris', 'Cries and Whispers', 'Aguirre, the Wrath of God']",3.591111111,27
+1973,"['The Holy Mountain', 'The Mother and the Whore', 'Amarcord', 'Badlands']",3.6759375,32
+1974,"['The Godfather Part II', 'The Conversation', 'Phantom of the Paradise', 'The Texas Chain Saw Massacre']",3.551428571,21
+1975,"[""One Flew Over the Cuckoo's Nest"", 'Mirror', 'Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles', 'Monty Python and the Holy Grail']",3.508518519,27
+1976,"['The Message', ""All the President's Men"", 'Carrie', 'The Outlaw Josey Wales']",3.482916667,24
+1977,"['Annie Hall', 'That Obscure Object of Desire', 'Suspiria', 'Eraserhead']",3.305555556,27
+1978,"['The Deer Hunter', 'The 36th Chamber of Shaolin', 'Dawn of the Dead', 'Invasion of the Body Snatchers']",3.271724138,29
+1979,"['Apocalypse Now', 'Stalker', 'All That Jazz', 'Alien']",3.551935484,31
+1980,"['The Empire Strikes Back', 'Raging Bull', 'The Elephant Man', 'Kagemusha']",3.342432432,37
+1981,"['Das Boot', 'Raiders of the Lost Ark', 'Blow Out', 'Possession']",3.392926829,41
+1982,"['The Thing', 'The King of Comedy', 'Fitzcarraldo', 'Blade Runner']",3.402727273,33
+1983,"['The Ballad of Narayama', 'Merry Christmas, Mr. Lawrence', 'Videodrome', ""Monty Python's The Meaning of Life""]",3.332352941,34
+1984,"['Paris, Texas', 'Once Upon a Time in America', 'This Is Spinal Tap', 'Urusei Yatsura: Beautiful Dreamer']",3.284222222,45
+1985,"['Come and See', 'Ran', 'Mishima: A Life in Four Chapters', 'Tampopo']",3.319275362,69
+1986,"['Aliens', 'Stand by Me', 'Blue Velvet', 'Castle in the Sky']",3.30671875,64
+1987,"['Wings of Desire', 'The Princess Bride', 'Evil Dead II', ""Babette's Feast""]",3.341071429,56
+1988,"['Cinema Paradiso', 'Akira', 'My Neighbor Totoro', 'Die Hard']",3.371323529,68
+1989,"['Do the Right Thing', 'Dead Poets Society', 'The Cook, the Thief, His Wife & Her Lover', ""Kiki's Delivery Service""]",3.36047619,63
+1990,"['GoodFellas', 'Dreams', ""Miller's Crossing"", 'Bullet in the Head']",3.278196721,61
+1991,"['Terminator 2: Judgment Day', 'Raise the Red Lantern', 'The Lovers on the Bridge', 'La Belle Noiseuse']",3.269428571,70
+1992,"['Farewell My Concubine', 'Unforgiven', 'Twin Peaks: Fire Walk with Me', 'Porco Rosso']",3.299714286,70
+1993,"['In the Name of the Father', 'Short Cuts', 'Naked', 'Sonatine']",3.304285714,84
+1994,"['Satantango', 'Chungking Express', 'Pulp Fiction', 'The Lion King']",3.20875,80
+1995,"['La Haine', 'Before Sunrise', 'Heat', 'Fallen Angels']",3.2583,100
+1996,"['Fargo', 'Trainspotting', 'Breaking the Waves', 'Bound']",3.229113924,79
+1997,"['Perfect Blue', 'Princess Mononoke', 'Life Is Beautiful', 'Cure']",3.204526316,95
+1998,"['Saving Private Ryan', 'The Truman Show', 'The Big Lebowski', 'The Thin Red Line']",3.148712871,101
+1999,"['Fight Club', 'Magnolia', 'The Green Mile', 'The Matrix']",3.31,91
+2000,"['Yi Yi', 'In the Mood for Love', 'Memento', 'Dancer in the Dark']",3.148272727,110
+2001,"['Mulholland Drive', 'Millennium Actress', 'All About Lily Chou-Chou', 'The Royal Tenenbaums']",3.224259259,108
+2002,"['City of God', 'The Lord of the Rings: The Two Towers', 'The Pianist', 'Lilya 4-ever']",3.113100775,129
+2003,"['The Lord of the Rings: The Return of the King', 'Memories of Murder', 'Oldboy', 'Tokyo Godfathers']",3.119586777,121
+2004,"['Before Sunset', 'Nobody Knows', ""Howl's Moving Castle"", 'Eternal Sunshine of the Spotless Mind']",3.199342105,152
+2005,"['Grizzly Man', 'Pride & Prejudice', 'Lady Vengeance', 'One Piece: Baron Omatsuri and the Secret Island']",2.997769784,139
+2006,"['Death Note', 'Kill Bill: The Whole Bloody Affair', 'The Departed', 'The Lives of Others']",3.053492063,189
+2007,"['There Will Be Blood', 'No Country for Old Men', 'Ratatouille', 'Persepolis']",3.113121387,173
+2008,"['The Dark Knight', 'Synecdoche, New York', 'The Wrestler', 'Let the Right One In']",3.003892216,167
+2009,"['Inglourious Basterds', 'Fantastic Mr. Fox', 'Mary and Max', 'The White Ribbon']",2.97513089,191
+2010,"['Incendies', 'The Disappearance of Haruhi Suzumiya', 'Inception', 'Poetry']",3.014254144,181
+2011,"['A Separation', 'The Intouchables', 'Silenced', 'Warrior']",2.97,203
+2012,"['The Act of Killing', 'The Hunt', 'Django Unchained', 'Wolf Children']",2.985699482,193
+2013,"['Prisoners', 'The Tale of The Princess Kaguya', 'Short Term 12', '12 Years a Slave']",3.030514019,214
+2014,"['Whiplash', 'Mommy', 'Song of the Sea', 'What We Do in the Shadows']",2.888806584,243
+2015,"['Mad Max: Fury Road', 'Spotlight', 'Our Little Sister', 'Carol']",2.986778243,239
+2016,"['The Handmaiden', 'Your Name.', 'Your Name', 'Moonlight']",2.919067164,268
+2017,"['Kizumonogatari Part 3: Reiketsu', 'Get Out', 'Night Is Short, Walk On Girl', 'A Taxi Driver']",2.959261745,298
+2018,"['Taylor Swift: Reputation Stadium Tour', 'Spider-Man: Into the Spider-Verse', 'Shoplifters', 'Capernaum']",2.924349206,315
+2019,"['Portrait of a Lady on Fire', 'Sound of Metal', 'Bring the Soul: The Movie', 'Little Women']",2.917648725,353
+2020,"['Folklore: The Long Pond Studio Sessions', 'The Father', 'Wolfwalkers', 'Quo vadis, Aida?']",2.86959854,274
+2021,"['Evangelion: 3.0+1.0 Thrice Upon a Time', 'Drive My Car', 'Bo Burnham: Inside', 'Summer of Soul (...Or, When the Revolution Could Not Be Televised)']",2.881526316,380
+2022,"['Everything Everywhere All at Once', 'RRR', 'The First Slam Dunk', 'Puss in Boots: The Last Wish']",2.893599182,489
+2023,"['Spider-Man: Across the Spider-Verse', 'BTS: Yet to Come in Cinemas', 'TAYLOR SWIFT | THE ERAS TOUR', 'Monster']",2.956280374,535
