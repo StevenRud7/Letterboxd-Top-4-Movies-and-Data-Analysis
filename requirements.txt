@@ -25,7 +25,7 @@ fsspec==2023.1.0
 fuzzywuzzy==0.18.0
 idna==3.6
 imageio==2.31.2
-importlib-metadata==7.0.0
+importlib-metadata==6.7.0
 importlib_resources==6.1.2
 itsdangerous==2.1.2
 Jinja2==3.1.2
