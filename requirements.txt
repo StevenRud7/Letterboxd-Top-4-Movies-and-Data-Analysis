@@ -7,7 +7,7 @@ cffi==1.15.1
 charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
-contourpy==1.1.1
+contourpy==1.0.6
 cormen-lib==1.0.2
 cycler==0.12.1
 Cython==0.29.37
