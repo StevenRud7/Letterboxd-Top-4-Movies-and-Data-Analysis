@@ -34,7 +34,7 @@ kiwisolver==1.4.5
 lazy_loader==0.3
 letterboxdpy==4.5
 librosa @ git+https://github.com/librosa/librosa@4d220455e94704c0adaa1eeb86974aa7344e28f7
-llvmlite==0.41.1
+llvmlite==0.39.1
 lxml==5.1.0
 MarkupSafe==2.1.3
 matplotlib==3.7.5
