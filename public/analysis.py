@@ -6,8 +6,8 @@ import plotly.express as px
 import pandas as pd
 
 # Read the CSV data
-top_movies_file = 'public/top_movies_by_year.csv'
-movies_rating_file = 'public/movies_rating.csv'
+top_movies_file = 'top_movies_by_year.csv'
+movies_rating_file = 'movies_rating.csv'
 top_movies_data = pd.read_csv(top_movies_file)
 movies_rating_data = pd.read_csv(movies_rating_file)
 
