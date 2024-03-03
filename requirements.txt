@@ -9,7 +9,7 @@ click==8.1.7
 colorama==0.4.6
 contourpy==1.0.6
 cormen-lib==1.0.2
-cycler==0.12.1
+cycler==0.11.0
 Cython==0.29.37
 dash==2.15.0
 dash-core-components==2.0.0
