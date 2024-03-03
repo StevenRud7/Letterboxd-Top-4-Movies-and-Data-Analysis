@@ -1,7 +1,7 @@
 ﻿altgraph==0.17.3
 audioread==3.0.1
 beautifulsoup4==4.12.3
-blinker==1.7.0
+blinker==1.6.3
 certifi==2023.11.17
 cffi==1.16.0
 charset-normalizer==3.3.2
