@@ -13,9 +13,9 @@ top_movies_data = pd.read_csv(top_movies_file)
 movies_rating_data = pd.read_csv(movies_rating_file)
 
 # Initialize the Dash app
-app = dash.Dash(__name__)
+#app = dash.Dash(__name__)
 #app = dash.Dash(__name__, external_stylesheets=['/src/analysis.css'])
-
+app = dash.Dash(__name__, url_base_pathname='/data_analysis/')
 
 # Layout of the Dash app
 app.layout = html.Div(style={'backgroundColor': '#2C343F', 'color': 'white'}, children=[
