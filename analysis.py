@@ -102,5 +102,8 @@ def update_info_box(click_data):
     return info_box_content
 
 
+# if __name__ == '__main__':
+#     app.run(debug=False, host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
+
 if __name__ == '__main__':
-    app.run(debug=False, host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
+    app.run_server(debug=False)
