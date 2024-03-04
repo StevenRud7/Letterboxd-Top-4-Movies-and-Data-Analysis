@@ -4,6 +4,7 @@ from dash import dcc, html
 from dash.dependencies import Input, Output
 import plotly.express as px
 import pandas as pd
+import os
 
 # Read the CSV data
 top_movies_file = 'public/top_movies_by_year.csv'
