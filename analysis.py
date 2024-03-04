@@ -13,9 +13,9 @@ top_movies_data = pd.read_csv(top_movies_file)
 movies_rating_data = pd.read_csv(movies_rating_file)
 
 # Initialize the Dash app
-#app = dash.Dash(__name__)
+app = dash.Dash(__name__)
 #app = dash.Dash(__name__, external_stylesheets=['/src/analysis.css'])
-app = dash.Dash(__name__, url_base_pathname='/data_analysis/')
+#app = dash.Dash(__name__, url_base_pathname='/data_analysis/')
 
 
 # Layout of the Dash app
@@ -61,8 +61,7 @@ app.layout = html.Div(style={'backgroundColor': '#2C343F', 'color': 'white'}, ch
 # Callback for updating the info box when a point is clicked
 @app.callback(
     Output('chart-info-box', 'children'),
-    [Input('rating-chart', 'clickData')],
-    prevent_initial_call=True
+    [Input('rating-chart', 'clickData')]
 )
 def update_info_box(click_data):
     if click_data is None:
@@ -105,4 +104,4 @@ def update_info_box(click_data):
 
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
+    app.run(debug=True, host='0.0.0.0', port=int(os.environ.get('PORT', 8050)))
