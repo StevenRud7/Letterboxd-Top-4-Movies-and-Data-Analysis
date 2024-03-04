@@ -16,7 +16,7 @@ CORS(app)  # Enable CORS for all routes
 
 @app.route('/')
 def home():
-    return render_template('index.html')
+    return render_template('public/index.html')
 
 # @app.route('/data_analysis')
 # def data_analysis():
