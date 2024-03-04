@@ -19,7 +19,10 @@ function App() {
       setTopMovies([]); // Reset topMovies array
       setSearched(false); // Hide profile when clicking the button
       setError(''); 
-      const response = await axios.post('https://top4.onrender.com/get_top_movies', { username });
+      //const response = await axios.post('http://localhost:5000/get_top_movies', { username });
+      //const response = await axios.post('https://top4.onrender.com/get_top_movies', { username });
+      const response = await axios.post('/get_top_movies', { username });
+
       const { top_movies, totalR, totalM } = response.data;
 
       // Show only 4 movies

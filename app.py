@@ -4,9 +4,15 @@ from flask_cors import CORS
 from letterboxdpy import user, movie
 import random
 import os
+#from dash import Dash
+
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
+
+# Initialize the Dash app
+# dash_app = Dash(__name__, server=app, url_base_pathname='/dash/')
+# dash_app.title = 'Data Analysis'
 
 @app.route('/')
 def home():
@@ -62,4 +68,5 @@ def get_top_movies():
     return jsonify({"top_movies": movies_data, "totalR": total_rates, "totalM": total_movies})
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
+
