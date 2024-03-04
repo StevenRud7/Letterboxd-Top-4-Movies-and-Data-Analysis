@@ -7,7 +7,8 @@ import os
 #from dash import Dash
 
 
-app = Flask(__name__)
+#app = Flask(__name__)
+app = Flask(__name__, template_folder='public')
 CORS(app)  # Enable CORS for all routes
 
 # Initialize the Dash app
