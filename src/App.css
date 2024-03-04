@@ -104,7 +104,7 @@ h1 {
 }
 
 .loadingContainer {
-  position: fixed;
+  position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -173,6 +173,7 @@ h1 {
   border-radius: 5px;
   margin-left: 5px;
   cursor: pointer;
+  position: relative;
 }
 
 .dataAnalysisBtn:hover {
