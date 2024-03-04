@@ -4,7 +4,6 @@ from dash import dcc, html
 from dash.dependencies import Input, Output
 import plotly.express as px
 import pandas as pd
-import os
 
 # Read the CSV data
 top_movies_file = 'public/top_movies_by_year.csv'
@@ -15,7 +14,6 @@ movies_rating_data = pd.read_csv(movies_rating_file)
 # Initialize the Dash app
 app = dash.Dash(__name__)
 #app = dash.Dash(__name__, external_stylesheets=['/src/analysis.css'])
-#app = dash.Dash(__name__, url_base_pathname='/data_analysis/')
 
 
 # Layout of the Dash app
@@ -104,4 +102,4 @@ def update_info_box(click_data):
 
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=int(os.environ.get('PORT', 8050)))
+    app.run(debug=True, host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
