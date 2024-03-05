@@ -11,18 +11,11 @@ import os
 app = Flask(__name__, template_folder='public')
 CORS(app)  # Enable CORS for all routes
 
-# Initialize the Dash app
-# dash_app = Dash(__name__, server=app, url_base_pathname='/dash/')
-# dash_app.title = 'Data Analysis'
 
 @app.route('/')
 def home():
     return render_template('index.html')
 
-# @app.route('/data_analysis')
-# def data_analysis():
-#     os.system('python data_analysis.py')  # Run the data analysis script
-#     return render_template('analysis.html')
 
 @app.route('/data_analysis')
 def data_analysis():
