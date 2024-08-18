@@ -2,7 +2,7 @@
 
 ## Overview
 
-This website, developed using JavaScript and MongoDB for data storage, serves the purpose of assisting users in locating LEGO sets. It offers a range of filters to facilitate searching and allows users to keep track of sets they want and those they already own. A Visualation of the application is shown on the bottom. 
+This Full-Stack project was created with a Python backend and a React.js frontend with Flask and Dash libraries to create a web application that provides users with a personalized top 4 selection of their top-rated movies on Letterboxd, along with a data analysis feature showcasing the top 4 movies and the average ratings over the years.
 
 ## Features
 
