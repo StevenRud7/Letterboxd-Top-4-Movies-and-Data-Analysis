@@ -56,10 +56,10 @@ This Full-Stack project was created with a Python backend and a React.js fronten
 The Home Page:
 ![plot](./public/main.png)
 
-Searching a user (I choose a random top Letterboxd Reviewer as an example):
+Searching a user (I chose a random top Letterboxd Reviewer as an example):
 ![plot](./public/main_movies.png)
 
-Hovering over a movie (Can be clicked to see the full Letterboxd page and the Username can be click too to view the profile):
+Hovering over a movie (Can be clicked to see the full Letterboxd page and the Username can be clicked too to view the profile):
 ![plot](./public/main_movies_hover.png)
 
 Now clicking the Data Analysis page for the Data Science section of the movie changes throughout the years. The main plot:
